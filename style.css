@@ -1,0 +1,23 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background-image: url(img/jeu-js.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1, h2 {
+    text-align: center;
+    font-size: 3em;
+    color: white;
+}
+
+#result {
+    font-size: 6em;
+    width: 50%;
+    margin: auto;
+    color: white;
+    text-align: center;
+}
